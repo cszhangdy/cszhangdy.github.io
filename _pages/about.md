@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Associate Professor in the school of Computer Scinece and Technology of Sun Yat-sen University.
+I am an associate professor  at the School of Computer Science and Engineering, Sun Yat-sen University (SYSU), where I work in HCP Lab (Human-Cyber-Physical Intelligence Integration Lab) with Prof. Liang Lin. I received the Ph.D and M.Eng in Computer Science from University of Harbin Institude of Technology, advised by Prof. [Daivd Zhang](https://www4.comp.polyu.edu.hk/~csdzhang/) . I obtained the B.Eng. from Notheastern University in Shenyang.
+
+Research interest: My general research interest is Towards Transferable, Robust and Reliable Model Learning for computer vision tasks. Recently, I specifically focus on
+
+
 
 
  This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
