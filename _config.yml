@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Dongyu Zhang / Dr."
 title_separator          : "-"
-name                     : &name "Dongyu Zhang(张冬雨)"
+name                     : &name "Dongyu Zhang"
 description              : &description "personal description"
 url                      : https://cszhangdy.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
