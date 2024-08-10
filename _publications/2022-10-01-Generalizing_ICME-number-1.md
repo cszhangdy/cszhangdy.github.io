@@ -3,7 +3,7 @@ title: "Generalizing Factorization of Gans by Characterizing Convolutional Layer
 collection: publications
 permalink: /publication/2022Generalizing_ICME
 excerpt: 'This paper is about Generalizing Factorization of Gans by Characterizing Convolutional Layers.'
-date: 2022
+date: 2022-10-01
 venue: 'IEEE International Conference on Multimedia and Expo'
 paperurl: 'http://cszhangdy.github.io/files/Generalizing_ICME2022.pdf'
 citation: 'Yuehui Wang, Qing Wang, and Dongyu Zhang*. &quot;Generalizing Factorization of Gans by Characterizing Convolutional Layers (2022).&quot; <i>IEEE International Conference on Multimedia and Expo</i>. 1(1).'
