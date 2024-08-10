@@ -14,7 +14,9 @@ I am an associate professor  at the School of Computer Science and Engineering, 
 Recently, I specifically focus on
 
 (1) Low-level Vision:  Image Restoration (e.g., image denoising, image super resolution, image inpainting, image derain and etc.)
+
 (2) Text-to-image Generation: controllable text-to-image/video generation.
+
 (3) 3D Reconstruction of Human Body: Nerf and 3D Gaussian splatting methods.
 
 
