@@ -23,19 +23,19 @@ Recently, I specifically focus on
 **News**
 
 
-* :star2: One paper about diffusion bridge model is accepted for ICML2024
+*  One paper about diffusion bridge model is accepted for ICML2024
 
-* :star2: One paper about multimodel is accepted for AAAI2024
+*  One paper about multimodel is accepted for AAAI2024
 
-* :star2: One paper about Few-shot Object detection is published in  IEEE TCSVT
+*  One paper about Few-shot Object detection is published in  IEEE TCSVT
 
-* :star2: One paper is accepted for ICME
+*  One paper is accepted for ICME
 
-* :star2: Two papers are accepted for ICASSP
+*  Two papers are accepted for ICASSP
 
-* :star2: One paper is accepted for ICME 2021
+*  One paper is accepted for ICME 2021
 
-* :star2: One paper is accepted for CVPR 2020
+*  One paper is accepted for CVPR 2020
 
 
 
