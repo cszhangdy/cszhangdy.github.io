@@ -5,7 +5,7 @@ permalink: /publication/2024-02-17-Image restoration through generalized ornstei
 excerpt: 'This paper is about a new bridge diffusion model'
 date: 2024-02-17
 paperurl: 'http://cszhangdy.github.io/files/GOUB-ICML2024.pdf'
-citation: 'Conghan Yue, Zhengwei Peng, Junlong Ma,Shiyan Du, Pengxu Wei, and Dongyu Zhang*. (2024). &quot;Image restoration through generalized ornstein-uhlenbeck bridge&quot; <i>ICML 2024</i>. 1(3).'
+citation: 'Conghan Yue, Zhengwei Peng, Junlong Ma,Shiyan Du, Pengxu Wei, and Dongyu Zhang*. &quot;Image restoration through generalized ornstein-uhlenbeck bridge&quot; <i>ICML 2024</i>. 1(3).'
 ---
 
 
