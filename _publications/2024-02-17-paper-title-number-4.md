@@ -2,7 +2,7 @@
 title: "Image restoration through generalized ornstein-uhlenbeck bridge"
 collection: publications
 permalink: /publication/2024-02-17-Image restoration through generalized ornstein-uhlenbeck bridge-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper is about fixing template issue.'
 date: 2024-02-17
 paperurl: 'http://academicpages.github.io/files/GOUB-ICML2024.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
