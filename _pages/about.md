@@ -29,9 +29,9 @@ Recently, I specifically focus on
 
 *  One paper about Few-shot Object detection is published in  IEEE TCSVT
 
-*  One paper is accepted for ICME
+*  One paper is accepted for ICME 2022
 
-*  Two papers are accepted for ICASSP
+*  Two papers are accepted for ICASSP 2022
 
 *  One paper is accepted for ICME 2021
 
