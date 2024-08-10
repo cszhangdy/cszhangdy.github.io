@@ -1,0 +1,12 @@
+---
+title: "Few-Shot Generation By Modeling Stereoscopic Priors"
+collection: publications
+permalink: /publication/2022Generalizing_ICME
+excerpt: 'This paper is about Generalizing Factorization of Gans by Characterizing Convolutional Layers.'
+date: 2022-10-01
+venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
+paperurl: 'http://cszhangdy.github.io/files/Generalizing_ICME2022.pdf'
+citation: 'Yuehui Wang , Qing Wang, and Dongyu Zhang*. &quot;Few-Shot Generation By Modeling Stereoscopic Priors (2020).&quot; <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>. 1(1).'
+---
+
+Few-shot image generation, which aims to generate images from only a few images for a new category, has attracted some research interest in recent years. However, existing few-shot generation methods only focus on 2D images, ignoring 3D information. In this work, we propose a few-shot generative network which leverages 3D priors to improve the diversity and quality of generated images. Inspired by classic graphics rendering pipelines, we unravel the image generation process into three factors: shape, viewpoint and texture. This disentangled representation enables us to make the most of both 3D and 2D information in few-shot generation. To be specific, by changing the viewpoint and extracting textures from different real images, we can generate various new images even in data-scarce settings. Extensive experiments show the effectiveness of our method.
