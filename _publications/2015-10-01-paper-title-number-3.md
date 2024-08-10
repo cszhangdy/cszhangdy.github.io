@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-01-01
-venue: 'AAAI 2024'
+venue: 'AAAI'
 paperurl: 'http://cszhangdy.github.io/files/EVE-AAAI2024.pdf'
 citation: 'Junyi Chen,  Longteng Guo, Jia Sun,  Suai Shao,  Zehuan Yuan,  Liang Lin,  Dongyu Zhang*. &quot;Eve: Efficient vision-language pre-training with masked prediction and modality-aware moe.&quot; <i>AAAI 2024</i>.'
 ---
