@@ -17,7 +17,7 @@ Recently, I specifically focus on
 
 (2) Text-to-image Generation: controllable text-to-image/video generation.
 
-(3) 3D Reconstruction of Human Body: Nerf and 3D Gaussian splatting methods.
+(3) 3D Reconstruction of Human Body: NeRF and 3D Gaussian Splatting methods.
 
 
 **News**
