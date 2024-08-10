@@ -1,7 +1,7 @@
 ---
 title: "Generalizing Factorization of Gans by Characterizing Convolutional Layers"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022Generalizing_ICME
 excerpt: 'This paper is about Generalizing Factorization of Gans by Characterizing Convolutional Layers.'
 date: 2022
 venue: 'IEEE International Conference on Multimedia and Expo'
