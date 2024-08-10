@@ -3,7 +3,7 @@ title: "IRA-FSOD: Instant-Response and Accurate Few-shot Object Detector."
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about Instant-Response and Accurate Few-shot Object Detector.'
-date: 2023-11
+date: 2023-11-01
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
 paperurl: 'http://cszhangdy.github.io/files/IRA-FSOD-TCSVT2023.pdf'
 citation: 'Huang, Junying, Junhao Cao, Liang Lin, Dongyu Zhang* &quot;IRA-FSOD: Instant-Response and Accurate Few-shot Object Detector.&quot; <i>IEEE Transactions on Circuits and Systems for Video Technology.</i>. 33(11),2023.'
