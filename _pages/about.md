@@ -24,15 +24,15 @@ Recently, I specifically focus on
 
 * :star2: One paper is accepted for AAAI2024
 
-*One paper is published in  IEEE TCSVT
+* One paper is published in  IEEE TCSVT
 
-*One paper is accepted for ICME
+* One paper is accepted for ICME
 
-*Two papers are accepted for ICASSP
+* Two papers are accepted for ICASSP
 
-*One paper is accepted for ICME 2021
+* One paper is accepted for ICME 2021
 
-*One paper is accepted for CVPR 2020
+* One paper is accepted for CVPR 2020
 
 
 
