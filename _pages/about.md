@@ -20,13 +20,20 @@ Recently, I specifically focus on
 (3) 3D Reconstruction of Human Body: Nerf and 3D Gaussian splatting methods.
 
 
-*:star2: One paper is accepted for ICML2024
-*:star2: One paper is accepted for AAAI2024
+* :star2: One paper is accepted for ICML2024
+
+* :star2: One paper is accepted for AAAI2024
+
 *One paper is published in  IEEE TCSVT
+
 *One paper is accepted for ICME
+
 *Two papers are accepted for ICASSP
+
 *One paper is accepted for ICME 2021
+
 *One paper is accepted for CVPR 2020
+
 
 
 
