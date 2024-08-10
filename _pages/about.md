@@ -20,6 +20,9 @@ Recently, I specifically focus on
 (3) 3D Reconstruction of Human Body: Nerf and 3D Gaussian splatting methods.
 
 
+**News**
+
+
 * :star2: One paper about diffusion bridge model is accepted for ICML2024
 
 * :star2: One paper about multimodel is accepted for AAAI2024
