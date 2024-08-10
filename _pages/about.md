@@ -35,6 +35,7 @@ Huang, Junying, Junhao Cao, Liang Lin, Dongyu Zhang*, IRA-FSOD: Instant-Response
 **One paper is accepted for ICME**
 
 Yuehui Wang, Qing Wang, and Dongyu Zhang*. Generalizing Factorization of Gans by Characterizing Convolutional Layers. 2022 IEEE International Conference on Multimedia and Expo (ICME). 2022.
+
 **Two papers are accepted for ICASSP**
 
 Yuehui Wang , Qing Wang, and Dongyu Zhang*. Few-Shot Generation By Modeling Stereoscopic Priors. ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2022.
