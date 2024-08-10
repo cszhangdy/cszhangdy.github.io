@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor  at the School of Computer Science and Engineering, Sun Yat-sen University (SYSU), where I work in HCP Lab (Human-Cyber-Physical Intelligence Integration Lab) with Prof. Liang Lin. I received the Ph.D and M.Eng in Computer Science from University of Harbin Institude of Technology, advised by Prof. [Daivd Zhang](https://www4.comp.polyu.edu.hk/~csdzhang/) . I obtained the B.Eng from Notheastern University in Shenyang.
+I am an associate professor  at the School of Computer Science and Engineering, Sun Yat-sen University (SYSU), where I work in HCP Lab (Human-Cyber-Physical Intelligence Integration Lab). I received the Ph.D in Computer Science from University of Harbin Institude of Technology, advised by Prof. [Daivd Zhang](https://www4.comp.polyu.edu.hk/~csdzhang/) . I obtained the B.Eng. from Northeastern University in Shenyang.
 
 
 
