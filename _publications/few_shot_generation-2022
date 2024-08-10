@@ -1,11 +1,11 @@
 ---
 title: "Few-Shot Generation By Modeling Stereoscopic Priors"
 collection: publications
-permalink: /publication/2022Generalizing_ICME
-excerpt: 'This paper is about Generalizing Factorization of Gans by Characterizing Convolutional Layers.'
+permalink: /publication/few_shot_generation-2022
+excerpt: 'This paper is about few shot image generation'
 date: 2022-10-01
 venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
-paperurl: 'http://cszhangdy.github.io/files/Generalizing_ICME2022.pdf'
+paperurl: 'http://cszhangdy.github.io/files/Few-Shot_ICASSP2022'
 citation: 'Yuehui Wang , Qing Wang, and Dongyu Zhang*. &quot;Few-Shot Generation By Modeling Stereoscopic Priors (2020).&quot; <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>. 1(1).'
 ---
 
